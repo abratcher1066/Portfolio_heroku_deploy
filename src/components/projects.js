@@ -107,7 +107,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >MoviesTogether</CardTitle>
             <CardText>
-              An app for scheduling movies and television shows with friends and family across multiple content providers.
+              An app for scheduling movies and television shows with friends and family across multiple content providers utilizing Google API.
               <br/>
               <br/>
 
